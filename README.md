@@ -1,6 +1,6 @@
 # Heart_Health_Project
 
-## It is a machine learning classification project in which we have to predict whether a person has a heart disease or not based on 11 features which are as follows:
+### It is a machine learning classification project in which we have to predict whether a person has a heart disease or not based on 11 features which are as follows:
 ### 1)Age
 ### 2)Sex
 ### 3)Chest Pain Type
@@ -12,10 +12,10 @@
 ### 9)Exercise Induced Angina
 ### 10)Old Peak
 ### 11)The slope of the peak exercise ST segment
-## Deployment
+# Deployment
 ### The webApp is made using Streamlit Version 0.69.0 and deployed on Heroku platform.
 
-## Live Demo
+# Live Demo
 ### Try the live demo of the project here:
 
 https://heart-health-predictors.herokuapp.com/
